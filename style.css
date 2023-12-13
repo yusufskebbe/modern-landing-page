@@ -98,6 +98,7 @@ html{
 
 .banner h1{
   font-size: 10rem;
+  text-transform: uppercase;
   color: #fff;
   letter-spacing: .3rem;
   margin-bottom: 5rem;
@@ -116,13 +117,11 @@ html{
   border-radius: 0.7rem;
   font-size: 1.8rem;
   text-transform: uppercase;
-  text-shadow: 0.5rem .5rem rgba(233, 175, 90, 0.3);
   box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.2);
   cursor: pointer;
 }
 
 .banner button i{
-
   width: 30%;
   height: 100%;
   background-color: #eec245;
